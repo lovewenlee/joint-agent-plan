@@ -23,11 +23,11 @@
 | 模块 | 文档 | 说明 |
 |------|------|------|
 | 🎯 **战略总览** | [`docs/01-strategic-overview/`](./docs/01-strategic-overview/) | 核心使命、战略定位、发展路径 |
-| 🤖 **AI赋能方案** | [`docs/02-ai-empowerment/`](./docs/02-ai-empowerment/) | 光储充四大业务场景AI解决方案 |
-| 📈 **业务优先级** | [`docs/03-business-priority/`](./docs/03-business-priority/) | 市场策略、业务优先级、竞争分析 |
-| 👥 **团队建设** | [`docs/04-team-building/`](./docs/04-team-building/) | 组织架构、招聘计划、激励制度 |
-| 🚀 **实施路线图** | [`docs/05-implementation/`](./docs/05-implementation/) | 三年发展计划、关键里程碑 |
-| 💰 **财务分析** | [`docs/06-financial-analysis/`](./docs/06-financial-analysis/) | 投资回报、商业模式、融资规划 |
+| 🤖 **AI赋能方案** | [`docs/02-ai-empowerment/`](./docs/02-ai-empowerment/) | 光储充业务AI技术解决方案 |
+| 👥 **团队建设** | [`docs/03-team-building/`](./docs/03-team-building/) | 组织架构、招聘计划、激励制度 |
+| 🚀 **实施路线图** | [`docs/04-implementation/`](./docs/04-implementation/) | 三年发展计划、关键里程碑 |
+| 🧪 **试点项目** | [`docs/05-pilot-projects/`](./docs/05-pilot-projects/) | PoC验证方案与3个月实施计划 |
+| 💰 **预算规划** | [`docs/06-budget-planning/`](./docs/06-budget-planning/) | 首年详细财务预算与投入计划 |
 | ⚠️ **风险管理** | [`docs/07-risk-management/`](./docs/07-risk-management/) | 风险评估、应对策略、应急预案 |
 
 ## 🎯 核心策略
@@ -50,17 +50,19 @@
 ## 🚀 快速开始
 
 ### 📋 推荐阅读顺序
-1. 📖 [**战略总览**](./docs/01-strategic-overview/) - 了解整体战略和核心使命
-2. 🤖 [**AI赋能方案**](./docs/02-ai-empowerment/) - 深入了解技术解决方案
-3. 📈 [**业务优先级**](./docs/03-business-priority/) - 掌握市场策略和优先级
-4. 👥 [**团队建设**](./docs/04-team-building/) - 了解组织和人才规划
-5. 🚀 [**实施路线图**](./docs/05-implementation/) - 查看具体执行计划
+1. 📆 [**战略总览**](./docs/01-strategic-overview/) - 了解整体战略和核心使命
+2. 🤖 [**AI赋能方案**](./docs/02-ai-empowerment/) - 深入了解光储充业务AI技术方案
+3. 🧪 [**试点项目**](./docs/05-pilot-projects/) - 查看具体的PoC实施计划
+4. 💰 [**预算规划**](./docs/06-budget-planning/) - 了解首年详细财务投入
+5. 👥 [**团队建设**](./docs/03-team-building/) - 了解组织和人才规划
+6. 🚀 [**实施路线图**](./docs/04-implementation/) - 查看三年整体执行计划
 
 ### ⏰ 立即行动项
-- [ ] **本周内**：批准首年400万启动资金
-- [ ] **2周内**：成立智能体业务部，明确汇报线
-- [ ] **1月内**：完成核心团队招聘（算法总监+产品总监）
-- [ ] **2月内**：锁定第一个标杆客户
+- [ ] **本周内**：批准首年410万启动资金预算
+- [ ] **2周内**：成立智能体业务部，明确组织架构
+- [ ] **3周内**：启动核心团队招聘（2名算法工程师+1名项目经理）
+- [ ] **1月内**：选择并确定2个试点客户（充电桩+储能）
+- [ ] **6周内**：启动PoC项目，开始3个月验证周期
 
 ## 📞 联系方式
 
