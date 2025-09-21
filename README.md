@@ -25,18 +25,12 @@
 | 🎯 **战略总览** | [`docs/01-strategic-overview/`](./docs/01-strategic-overview/) | 核心使命、战略定位、发展路径 |
 | 🤖 **AI赋能方案** | [`docs/02-ai-empowerment/`](./docs/02-ai-empowerment/) | 光储充业务AI技术解决方案 |
 | 📈 **业务优先级** | [`docs/03-business-priority/`](./docs/03-business-priority/) | 业务优先级划分与市场分析 |
-| 👥 **团队建设**（务实版） | [`docs/03-team-building/`](./docs/03-team-building/) | **推荐使用** - 基于佳因特实际情况的务实团队方案 |
-| 👥 **团队建设**（传统版） | [`docs/04-team-building/`](./docs/04-team-building/) | 传统高武版团队方案（仅作参考） |
+| 👥 **团队建设** | [`docs/04-team-building/`](./docs/04-team-building/) | **务实版团队方案** - 基于佳因特实际情况设计 |
 | 🚀 **实施路线图** | [`docs/05-implementation/`](./docs/05-implementation/) | 三年发展计划、关键里程碑 |
-| 🧪 **试点项目** | [`docs/05-pilot-projects/`](./docs/05-pilot-projects/) | PoC验证方案与3个月实施计划 |
-| 💰 **预算规划** | [`docs/06-budget-planning/`](./docs/06-budget-planning/) | 首年详细财务预算与投入计划 |
-| 📉 **财务分析** | [`docs/06-financial-analysis/`](./docs/06-financial-analysis/) | 深度财务模型与投资回报分析 |
-| ⚠️ **风险管理** | [`docs/07-risk-management/`](./docs/07-risk-management/) | 风险评估、应对策略、应急预案 |
-
-> **📝 重要说明**：
-> - **团队建设方案存在两个版本**：
->   - `docs/03-team-building/` 为 **务实版（推荐）**，针对佳因特实际情况设计
->   - `docs/04-team-building/` 为传统高武版本，可作为参考
+| 🧪 **试点项目** | [`docs/06-pilot-projects/`](./docs/06-pilot-projects/) | PoC验证方案与3个月实施计划 |
+| 💰 **预算规划** | [`docs/07-budget-planning/`](./docs/07-budget-planning/) | 首年详细财务预算与投入计划 |
+| 📉 **财务分析** | [`docs/08-financial-analysis/`](./docs/08-financial-analysis/) | 深度财务模型与投资回报分析 |
+| ⚠️ **风险管理** | [`docs/09-risk-management/`](./docs/09-risk-management/) | 风险评估、应对策略、应急预案 |
 
 ## 🎯 核心策略
 
@@ -61,11 +55,11 @@
 1. 📆 [**战略总览**](./docs/01-strategic-overview/) - 了解整体战略和核心使命
 2. 🤖 [**AI赋能方案**](./docs/02-ai-empowerment/) - 深入了解光储充业务AI技术方案
 3. 📈 [**业务优先级**](./docs/03-business-priority/) - 了解业务优先级划分逻辑
-4. 🧪 [**试点项目**](./docs/05-pilot-projects/) - 查看具体的PoC实施计划
-5. 💰 [**预算规划**](./docs/06-budget-planning/) - 了解首年详细财务投入
-6. 👥 [**团队建设**](./docs/03-team-building/) - **务实版团队方案**（推荐）
+4. 👥 [**团队建设**](./docs/04-team-building/) - **务实版团队方案**（重点推荐）
+5. 🧪 [**试点项目**](./docs/06-pilot-projects/) - 查看具体的PoC实施计划
+6. 💰 [**预算规划**](./docs/07-budget-planning/) - 了解首年详细财务投入
 7. 🚀 [**实施路线图**](./docs/05-implementation/) - 查看三年整体执行计划
-8. 📉 [**财务分析**](./docs/06-financial-analysis/) - 深度财务模型分析（可选）
+8. 📉 [**财务分析**](./docs/08-financial-analysis/) - 深度财务模型分析（可选）
 
 ### ⏰ 立即行动项
 - [ ] **本周内**：批准首年410万启动资金预算
@@ -89,5 +83,5 @@
 
 **🎯 建议：**
 - **新手入门**：先阅读[战略总览](./docs/01-strategic-overview/)了解全局
-- **团队建设关注**：重点阅读[**务实版团队方案**](./docs/03-team-building/)，基于佳因特实际情况设计
+- **团队建设关注**：重点阅读[**务实版团队方案**](./docs/04-team-building/)，基于佳因特实际情况设计
 - **详细研究**：根据兴趣深入具体模块
