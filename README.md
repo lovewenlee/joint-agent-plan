@@ -14,15 +14,15 @@
 
 | 模块 | 文档路径 | 说明 |
 |------|----------|------|
-| 战略总览 | `docs/01-strategic-overview/` | 核心使命、战略定位、发展路径 |
-| AI赋能方案 | `docs/02-ai-empowerment/` | 光储充业务AI技术解决方案 |
-| 业务优先级 | `docs/03-business-priority/` | 业务优先级划分与市场分析 |
-| 团队建设 | `docs/04-team-building/` | 组织架构与人才配置方案 |
-| 实施路线图 | `docs/05-implementation/` | 三年发展计划、关键里程碑 |
-| 试点项目 | `docs/06-pilot-projects/` | PoC验证方案与实施计划 |
-| 预算规划 | `docs/07-budget-planning/` | 详细财务预算与投入计划 |
-| 财务分析 | `docs/08-financial-analysis/` | 财务模型与投资回报分析 |
-| 风险管理 | `docs/09-risk-management/` | 风险评估、应对策略、应急预案 |
+| [战略总览](./docs/01-strategic-overview/) | `docs/01-strategic-overview/` | 核心使命、战略定位、发展路径 |
+| [AI赋能方案](./docs/02-ai-empowerment/) | `docs/02-ai-empowerment/` | 光储充业务AI技术解决方案 |
+| [业务优先级](./docs/03-business-priority/) | `docs/03-business-priority/` | 业务优先级划分与市场分析 |
+| [团队建设](./docs/04-team-building/) | `docs/04-team-building/` | 组织架构与人才配置方案 |
+| [实施路线图](./docs/05-implementation/) | `docs/05-implementation/` | 三年发展计划、关键里程碑 |
+| [试点项目](./docs/06-pilot-projects/) | `docs/06-pilot-projects/` | PoC验证方案与实施计划 |
+| [预算规划](./docs/07-budget-planning/) | `docs/07-budget-planning/` | 详细财务预算与投入计划 |
+| [财务分析](./docs/08-financial-analysis/) | `docs/08-financial-analysis/` | 财务模型与投资回报分析 |
+| [风险管理](./docs/09-risk-management/) | `docs/09-risk-management/` | 风险评估、应对策略、应急预案 |
 
 ## 商业模式策略
 
