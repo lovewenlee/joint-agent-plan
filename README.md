@@ -14,7 +14,7 @@
 
 | 模块 | 文档路径 | 说明 |
 |------|----------|------|
-|| 业务总览 | [`docs/01-strategic-overview/`](./docs/01-strategic-overview/) | 核心使命、市场定位、发展路径 |
+| 业务总览 | [`docs/01-strategic-overview/`](./docs/01-strategic-overview/) | 核心使命、市场定位、发展路径 |
 | AI赋能方案 | [`docs/02-ai-empowerment/`](./docs/02-ai-empowerment/) | 光储充业务AI技术解决方案 |
 | 业务优先级 | [`docs/03-business-priority/`](./docs/03-business-priority/) | 业务优先级划分与市场分析 |
 | 团队建设 | [`docs/04-team-building/`](./docs/04-team-building/) | 组织架构与人才配置方案 |
